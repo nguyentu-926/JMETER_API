@@ -23,6 +23,8 @@ Mục tiêu:
 | Java | Hỗ trợ chạy JMeter |
 | HTML Reports | Tùy chọn xuất báo cáo đẹp |
 
+![Screenshot (1368)](https://github.com/user-attachments/assets/f6b2f876-4731-4a99-ae57-2b93e35faf47)
+
 ---
 
 ## 3. Kiểm Thử bằng API
@@ -42,9 +44,21 @@ Mục tiêu:
   - View Results Tree
   - Summary Report
 
+![Screenshot (1369)](https://github.com/user-attachments/assets/2a59ce8b-bb90-4d3c-bc56-34d1353fcaa1)
+
+![Screenshot (1371)](https://github.com/user-attachments/assets/2db4b8be-bcd7-4e59-9205-b2fb652ca26b)
+
+![Screenshot (1373)](https://github.com/user-attachments/assets/7ef52ff4-abca-4ce7-814b-efce00c7a637)
+
+
 ---
 
 ## 5. Kết quả kiểm thử
+
+![Screenshot (1376)](https://github.com/user-attachments/assets/8b078f56-a18a-4ddc-b20d-048ff956ff5b)
+
+![Screenshot (1377)](https://github.com/user-attachments/assets/649699c3-373e-4a77-a973-40c2c359685f)
+
 
 ## 6. Kết luận
 
